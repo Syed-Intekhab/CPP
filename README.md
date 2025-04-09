@@ -13,12 +13,14 @@ This repository serves as a collection of C++ programs I have written throughout
 - Miscellaneous programs and mini projects
 
 ## 📁 Repository Structure
-
-📂 CPP-Programs
+```
+📂 Java-Programs
 │-- 📂 Basics
 │-- 📂 Star Patterns
 │-- 📂 OOP (Coming soon!)
 │-- 📂 DSA (Coming soon!)
 │-- 📂 File-Handling (Coming soon!)
+│-- 📂 Multithreading (Coming soon!)
 │-- 📂 Mini-Projects (Coming soon!)
 │-- README.md
+```
