@@ -24,3 +24,12 @@ This repository serves as a collection of C++ programs I have written throughout
 │-- 📂 Mini-Projects (Coming soon!)
 │-- README.md
 ```
+
+
+## 📞 Contact
+For any queries or suggestions, reach out to me via:
+- 📧 Email: intekhab.dev@gmail.com
+- 💼 Portfolio: https://syed-intekhab.github.io/Projects
+- 🐙 GitHub: https://github.com/Syed-Intekhab
+
+Happy Coding! 🚀
