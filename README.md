@@ -14,4 +14,11 @@ This repository serves as a collection of C++ programs I have written throughout
 
 ## 📁 Repository Structure
 
-📂 Cpp-Programs │-- 📂 Basics │-- 📂 Star Patterns │-- 📂 OOP (Coming soon!) │-- 📂 DSA (Coming soon!) │-- 📂 File-Handling (Coming soon!) │-- 📂 Templates (Coming soon!) │-- 📂 STL (Coming soon!) │-- 📂 Mini-Projects (Coming soon!) │-- README.md
+📂 CPP-Programs
+│-- 📂 Basics
+│-- 📂 Star Patterns
+│-- 📂 OOP (Coming soon!)
+│-- 📂 DSA (Coming soon!)
+│-- 📂 File-Handling (Coming soon!)
+│-- 📂 Mini-Projects (Coming soon!)
+│-- README.md
